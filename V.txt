@@ -1,0 +1,6 @@
+What is the policy for late assignment submissions in this class?
+
+> For homework, you will have an automatic grace day by which you can turn the
+assignment in late, without penalty. After that, late assignments will incur a 1% point reduction for
+each hour that it is late, as late assignments are not worthless, but worth less. Again, this is to mimic
+industry conditions. Time is of the essence. 
